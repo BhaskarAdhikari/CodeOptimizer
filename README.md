@@ -1,9 +1,9 @@
 CodeOptimizer using DeepSeek API
 
-Overview
+Overview:
 This Python project demonstrates how to build a chatbot named CodeOptimizer using the DeepSeek API, a customized version of OpenAI's API. The chatbot can help with code optimization by providing suggestions and fixes based on user input. It supports both standard and streaming responses for a more interactive experience.
 
-Features
+Features:
 API Integration: Connects to DeepSeek's API using a custom base URL.
 Streaming Responses: Provides real-time replies for a smooth chat experience.
 Code Optimization Tips: Detects and suggests fixes for common code issues.
